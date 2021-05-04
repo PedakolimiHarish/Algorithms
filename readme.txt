@@ -1,0 +1,1 @@
+This repository  will have Algorithms of different kind.
